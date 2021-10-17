@@ -1,7 +1,7 @@
 # DIABETES_PREDICTION_WITH_ML
 ## İş Problemi: 
 #### 
-Özellikleri belirtildiğinde bir kişinin diyabetli olup olmadığını tahmin edecek bir mak. ögr. modeli geliştirebilir misiniz?
+Özellikleri belirtildiğinde bir kişinin diyabetli olup olmadığını tahmin edecek bir makine öğrenmesi modeli geliştirebilir miyiz?
 ## Veri Seti Hikayesi: 
 #### 
 21 yaş üstündeki Pima India kadınları üzerinde yapılan testlerden gelen verilerdir.
