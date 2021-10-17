@@ -4,7 +4,7 @@
 Özellikleri belirtildiğinde bir kişinin diyabetli olup olmadığını tahmin edecek bir makine öğrenmesi modeli geliştirebilir miyiz?
 ## Veri Seti Hikayesi: 
 #### 
-21 yaş üstündeki Pima India kadınları üzerinde yapılan testlerden gelen verilerdir.
+ABD'deki Arizona en büyük 5. şehri olan Phoenix şehrinde yaşayan 21 yaş üstündeki Pima ve India kadınları üzerinde yapılan diyabet araştırması için yapılan testlerden gelen verilerdir.
 
 ## Değişkenler: 
 + Hedef (bağımlı) değişken "Outcome" değişkenidir. Diyabetli olmayı 1, olmamayı 0 ifade ediyor.
